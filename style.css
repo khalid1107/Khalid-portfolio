@@ -4,13 +4,13 @@ body{
     font-family: 'Zen Loop', cursive;
     margin: 0;
 }
-h1{
-    font-size: 60px;
+#intro{
+    font-size: 70px;
 }
 p{
     font-size: 30px;
 }
-h2{
+#first{
     font-size: 50px;
 }
 span{
@@ -18,6 +18,7 @@ span{
 }
 section{
     display: flex;
+    padding-bottom: 170px;
 }
 .half-widht{
     width: 50%;
@@ -31,13 +32,44 @@ section{
 .link-button{
     text-decoration: none;
     font-size: 30px;
-    background-image: linear-gradient(orange, tomato);
-    font-weight: 700;
-    color:white;
+    background-image: linear-gradient( orangered, yellow);
+    font-weight: 600;
+    color:whitesmoke;
     padding: 10px 40px;
     border-radius: 10px; 
 }
 .top-banner{
     background-image: url(pictures/top-banner.png);
     background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size:50px;
+
+}
+.half-widht-one{
+    width: 50%;
+    margin-left: 16%;
+    
+   
+}
+.link-button-big{    text-decoration: none;
+    font-size: 30px;
+    background-image: linear-gradient(black, rgb(75, 135, 187)) ;
+    font-weight: 600;
+    color:tomato;
+    padding: 10px 30px;
+    border-radius: 10px; 
+}
+.big-dream{
+    background-image: url(pictures/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    padding-bottom: 130px;
+}
+.my-second{
+    width: auto;
+    padding-top: 33px ; 
 }
