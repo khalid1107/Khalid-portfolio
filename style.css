@@ -3,12 +3,14 @@ body{
     font-family: 'Oswald', sans-serif;
     font-family: 'Zen Loop', cursive;
     margin: 0;
+    background-color: black;
 }
 #intro{
     font-size: 70px;
 }
 p{
     font-size: 30px;
+    color: whitesmoke;
 }
 #first{
     font-size: 50px;
@@ -23,6 +25,7 @@ p{
 .half-widht{
   width: 50%;
   padding-left:70px; 
+  background-color: black;
 }
 .half-widht img {
     width: auto;
@@ -34,7 +37,7 @@ p{
     font-size: 30px;
     background-image: linear-gradient( orangered, yellow);
     font-weight: 600;
-    color:whitesmoke;
+    color:black;
     padding: 10px 40px;
     border-radius: 10px; 
 }
@@ -44,9 +47,11 @@ p{
 }
 h1{
     font-size: 50px;
+    color: white;
 }
 h2{
     font-size:40px;
+    color: whitesmoke;
 }
 h1{
     font-size: 70px;
@@ -59,9 +64,9 @@ h1{
 }
 .link-button-big{    text-decoration: none;
     font-size: 30px;
-    background-image: linear-gradient(black, rgb(75, 135, 187)) ;
+    background-image: linear-gradient(rgb(247, 74, 11), rgb(71, 5, 41)) ;
     font-weight: 600;
-    color:tomato;
+    color:black;
     padding: 10px 30px;
     border-radius: 10px; 
 }
@@ -73,7 +78,7 @@ h1{
 }
 .my-second{
     width: auto;
-    padding-top: 40px ; 
+    padding-top: 40 ; 
 }
 h3{
     font-size: 30px;
