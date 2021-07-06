@@ -92,7 +92,7 @@ h2{
     border-image-slice: 1;
 }
 #suck-dev{
-    border-image: linear-gradient(orangered, yellow);
+    border-image: linear-gradient(orange, rgb(199, 199, 64));
     border-left: 10px solid;
     border-image-slice: 1;
 }
